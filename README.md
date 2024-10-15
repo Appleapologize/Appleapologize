@@ -8,7 +8,7 @@
 
 ## <a href="https://github.com/Appleapologize/for-naruter">for-naruter</a>
 로토리 님이 배포하신 <a href="https://github.com/rotorri/naruter">나루터</a>에 커스텀용으로 사용할 수 있는 코드들입니다.
-
+<br>자세한 설명은 레포토지에 적어두었으오니 참고 부탁드립니다.
 
 <!--
 제목은 #(한칸 띄기)으로(#이 더 붙을 수록 작은 제목)
