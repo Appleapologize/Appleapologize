@@ -1,14 +1,17 @@
-## Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAppleapologize&count_bg=%23FF2D2D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visiter&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Appleapologize&show_icons=true&theme=shadow_red)
 
 
 
 <!--
+제목은 #으로(#이 더 붙을 수록 작은 제목)
 **Appleapologize/Appleapologize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+밑이 li코드 사용한 것과 동일한 것
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
