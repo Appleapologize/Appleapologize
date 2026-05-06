@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAppleapologize&count_bg=%23FF2D2D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visiter&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleapologize&show_icons=true&theme=shadow_red)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Appleapologize)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <a href="https://github.com/Appleapologize/for-naruter">for-naruter</a>
 로토리 님이 배포하신 <a href="https://github.com/rotorri/naruter">나루터</a>에 커스텀용으로 사용할 수 있는 코드들입니다.
