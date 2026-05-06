@@ -2,7 +2,8 @@
 
 처음뵙겠습니다. **'사과는 사과하라며 울어요'** 를 줄여서 **'사과'** 입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAppleapologize&count_bg=%23FF2D2D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visiter&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://hitscounter.dev/api/hit?url=Appleapologize&label=&icon=github&color=%23b02a37&message=&style=flat&tz=UTC">
+
 <br>
 <!-- 기존 주소 대신 아래 주소로 테스트 -->
 [![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&theme=dark&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
