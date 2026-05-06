@@ -6,7 +6,7 @@
 
 <br>
 <!-- 기존 주소 대신 아래 주소로 테스트 -->
-[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api username=Appleapologize&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical)]
 (https://github.com/anuraghazra/github-readme-stats)
 
 
