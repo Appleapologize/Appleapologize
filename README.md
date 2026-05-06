@@ -5,7 +5,8 @@
 <img src="https://hitscounter.dev/api/hit?url=Appleapologize&label=&icon=github&color=%23b02a37&message=&style=flat&tz=UTC">
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 
 
