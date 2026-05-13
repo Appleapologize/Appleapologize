@@ -4,7 +4,6 @@
 
 <img src="https://hitscounter.dev/api/hit?url=Appleapologize&label=&icon=github&color=%23b02a37&message=&style=flat&tz=UTC"> ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)   
 <img src="https://img.shields.io/github/issues/Appleapologize/github-readme-stats?color=0088ff">
-<img src="https://img.shields.io/github/issues/Appleapologize/github-readme-stats?color=0088ff">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleapologize)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800)
