@@ -1,8 +1,10 @@
-### '사과'라고 합니다.
+# '사과'라고 합니다.
 
 처음뵙겠습니다. **'사과는 사과하라며 울어요'** 를 줄여서 **'사과'** 입니다.
 
 <img src="https://hitscounter.dev/api/hit?url=Appleapologize&label=&icon=github&color=%23b02a37&message=&style=flat&tz=UTC">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Appleapologize)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
