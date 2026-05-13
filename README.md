@@ -6,7 +6,11 @@
 <img src="https://img.shields.io/github/issues/Appleapologize/github-readme-stats?color=0088ff">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleapologize)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleapologize)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800)-->
+
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Appleapologize&theme=radical)](https://github.com)
+
+
 
 <br>
 
