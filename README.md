@@ -10,11 +10,11 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com">
+<p align="center" style="text-decoration:none;">
+  <a href="https://github.com" style="text-decoration:none;">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Appleapologize&theme=radical" height="195"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:none;">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical" height="195"/>
   </a>
 
