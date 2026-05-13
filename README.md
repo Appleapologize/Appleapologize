@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Appleapologize&theme=radical" height="195" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Appleapologize&theme=radical" height="195"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical" height="195" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical" height="195"/>
   </a>
 
   <!-- 밑은 같은 코드(근데 이제 세로로만 나열 됨)
