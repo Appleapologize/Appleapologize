@@ -1,21 +1,31 @@
 # '사과'라고 합니다.
 
 처음뵙겠습니다. **'사과는 사과하라며 울어요'** 를 줄여서 **'사과'** 입니다.
+<div align="center">
+  
+<img src="https://hitscounter.dev/api/hit?url=Appleapologize&label=&icon=github&color=%23b02a37&message=&style=flat&tz=UTC"> <img src="https://img.shields.io/github/issues/Appleapologize/github-readme-stats?color=0088ff">
 
-<img src="https://hitscounter.dev/api/hit?url=Appleapologize&label=&icon=github&color=%23b02a37&message=&style=flat&tz=UTC"> ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)   
-<img src="https://img.shields.io/github/issues/Appleapologize/github-readme-stats?color=0088ff">
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)   
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleapologize)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800)-->
+</div>
 
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Appleapologize&theme=radical" height="195" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical" height="195" />
+  </a>
+
+  <!-- 밑은 같은 코드(근데 이제 세로로만 나열 됨)
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appleapologize)](https://github.com/anuraghazra/github-readme-stats&cache_seconds=1800)-->
+<!--
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Appleapologize&theme=radical)](https://github.com)
-
-
-
 <br>
-
 [![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Appleapologize&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+</p>
 
 ## <a href="https://github.com/Appleapologize/for-naruter">for-naruter</a>
 로토리 님이 배포하신 <a href="https://github.com/rotorri/naruter">나루터</a>에 커스텀용으로 사용할 수 있는 코드들입니다.
